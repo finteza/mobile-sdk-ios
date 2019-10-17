@@ -121,4 +121,4 @@ The following debugging message indicates an event sending error due to the abse
 
 ## NEXT
 
-For further settings and examples please proceed t ooficial documentation page https://www.finteza.com/en/integrations/ios-sdk 
+For further settings and examples please proceed to oficial documentation page https://www.finteza.com/en/integrations/ios-sdk 
